@@ -1,0 +1,28 @@
+.team-card{
+    margin: 1em;
+    padding: 1em;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 15px 40px -20px rgba(40,44,63,.15);
+}
+
+.team-card h4{
+    margin: 10px 0;
+}
+
+.team-card p{
+    margin: 0;
+}
+
+.status {
+    margin-top: 1em !important;
+    font-weight: bold;
+}
+
+.Winner{
+    color: green;
+}
+
+.Loser{
+    color: red;
+}

@@ -1,0 +1,5 @@
+.card-container{
+    display: flex;
+    width: fit-content;
+    flex-direction: column;
+}

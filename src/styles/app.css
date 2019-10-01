@@ -1,0 +1,21 @@
+body {
+  background: #fafafa;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.start-button {
+  display: block;
+  margin: 0 auto;
+  padding: 0.5em 1em;
+  background: white;
+  border: 1px solid #efefef;
+  font-size: 1em;
+}
+
+.tournament-progress{
+  text-align: center;
+}
